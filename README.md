@@ -40,8 +40,3 @@ Durante o desenvolvimento, foram praticados:
 - Funções.
 - Organização de código.
 
-## 👩‍💻 Autoria
-
-Desenvolvido por **Seu Nome**.
-
-[GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/)
